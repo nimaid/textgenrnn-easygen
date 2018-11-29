@@ -32,7 +32,7 @@ except:
 
 #extract brain
 tempdir = tempfile.gettempdir()
-tempdir = os.path.join(tempdir, 'MasterMIDI')
+tempdir = os.path.join(tempdir, 'textgenrnn-easygen')
 if not os.path.exists(tempdir):
     os.mkdir(tempdir)
 with zipfile.ZipFile(args['brain'][0], 'r') as zf:
@@ -46,7 +46,6 @@ except:
     samples = args['number']
 
 for sample in range(samples):
-    print('\nCreating sample {}/{}...'.format(sample + 1, samples))
     #generate text
     start_time = time.time()
     from textgenrnn import textgenrnn
@@ -55,6 +54,7 @@ for sample in range(samples):
                          vocab_path = os.path.join(tempdir, 'vocab.json'),
                          config_path = os.path.join(tempdir, 'config.json'))
 
+    print('\nCreating sample {}/{}...'.format(sample + 1, samples))
     print('Creating {} characters...'.format(args['length'][0]))
     text = textgen.generate(max_gen_length = args['length'][0],
                             return_as_list = True,
@@ -76,16 +76,14 @@ for sample in range(samples):
         if hours not in ('', '0'):
             time_text = hours + " hours, " + time_text
     print('Done making text! It took {}.'.format(time_text))
-
+    print('\nText sample {}:\n'.format(str(sample+1)))
+    print(text)
     if base_filename != '':
         filename = base_filename + '_' + str(sample + 1) + '.txt'
-        print('Saving to "{}"'.format(filename))
+        print('\nSaving to "{}"'.format(filename))
         with open(filename, 'w+') as f:
             f.write(text)
         print('Saved to "{}"!'.format(filename))
-    else:
-        print('\nText sample {}:\n'.format(str(sample+1)))
-        print(text)
 print('\nDone generating {} samples! Cleaning up...'.format(samples))
 shutil.rmtree(tempdir)
 print('All done! Enjoy your novel... or whatever this program made.')
