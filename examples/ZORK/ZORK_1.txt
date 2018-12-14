@@ -1,0 +1,426 @@
+PORK I: The Greatly Overfitted Network
+Copyright (c) 2018 SkyNet All rights reserved.
+PORK is a registered trademark of SkyNet
+Revision 69 / Serial number 666420
+
+Forest Path
+There is a beautiful brass bauble here.
+ 
+>go south
+Altar
+This is the appears to have been the waiting room for groups touring the dam. There are open doorways here to the north and east marked "Private", and there is a path leading south over the top of the dam.
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+ 
+>go south
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a tourist attraction in times far distant. There are paths to the north, south, and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly above the bolt is a small green plastic bubble which is glowing serenely.
+ 
+>turn bolt with wrench
+The sluice gates open and water pours through the to have been an artack fog brinding on the trophy case.
+ 
+>take lamp
+Taken.
+ 
+>move rug
+With a great effort, the rug is moved to one side of the room.
+ 
+>read lid
+The sluice gates on the dam.
+There is a path along the stream to railing southwest along the edge of a chasm, and a path leading into a canyon to the southeast.
+ 
+>go east
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a tourist attraction in times far distant. There are paths to the north, south, and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly above the bolt is a small window which is slightly ajar.
+ 
+>open window
+With great effort, you scramble up some stairway leads down and to the east or west, a steep pathway climbing southwest as its of chance. The earth beneath your feet trembles, and your legs nest is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty knife.
+The deces here.
+There is a clove of garlic here.
+There is a crystal skull here.
+There is a broken timber here.
+ 
+>take wrench
+Taken.
+ 
+>take screwdriver
+Taken.
+ 
+>take torch
+Taken.
+ 
+>go northeast
+Reservoir South
+You are in a long room, to the north of which was formerly a lake. However, with the water level lowered, there is merely a wide stream running through the center of the room.
+There is a pair of candles.
+Open the brown sack reveals a lunch, and a clove of garlic.
+ 
+>take garlic
+Taken.
+ 
+>go east
+Ladder Bottom
+ 
+>go up
+Ladder Top
+ 
+>go up
+Coal Mine
+ 
+>go north
+Coal Mine
+ 
+>go east
+Coal Mine
+ 
+>go south
+Coal Mine
+A "lean and hungry" gentleman just wandered through, carrying a large bag. Finding nothing of value, he left disgruntled.
+ 
+>go north
+Gas Room
+There is a sapphire-encrusted bracelet here.
+ 
+>go up
+Smelly Room
+ 
+>go south
+Shaft Room
+At the end of the chain is a basket.
+ 
+>put torch in basket
+Done.
+ 
+>put screwdriver in basket
+Done.
+ 
+ 
+>turn on lamp
+The brass lantern is now on.
+ 
+>go down
+Cellar
+ 
+>go north
+The Troll Room
+There is a sword here.
+There is a bloody axe here.
+ 
+>go east
+East-West Passage
+This is a narrow passageway. Fone!
+ 
+>open case
+Opened.
+ 
+>take book
+Taken.
+ 
+>go down
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.
+ 
+>go down
+Entrance to Hades
+You are outside a large emerald.
+ 
+>take skull
+Taken.
+ 
+>go north
+Entrance to Hades
+There is a black book here.
+On the ground is a red hot bell.
+ 
+>go up
+Cave
+A gust of wind blows out your candles!
+ 
+>go north
+Mirror Room
+This is a small room which smells strongly of coal gas. There is a short climb up some stairway leads down. You can hear a loud roaring sound, like that of rushing water. On the east shore is a sandy beach. A skeleton, probably the remains of a luckless adventurer, lies here.
+Beside the shores of the river as it winds its way downstream.
+There is a folded pile of plastic here which may be seen, complete with rainbow. The magic boat contains:
+  A tan label
+ 
+>wait
+Time passes...
+The flow of the river carries you downstream.
+ 
+Frigid River, in the magic boat
+The river is running faster here and the sound ahead appears to be sunlight.
+ 
+>turn off lamp
+The brass lantern is now off.
+ 
+>go south
+Forest
+This is a dimly lit forest, with large trees all around.
+ 
+>go north
+Clearing
+You are in a small clearing in a well marked forest blight.
+The rome of the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+There is an exquisite jade figurine here.
+ 
+>take jade
+Taken.
+ 
+>go southeast
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+ 
+>go east
+Dome Room
+ 
+>go down
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above you is a large dome. Up around the edge of the dome (20 feet up) is a wooden railing. In the center of the room.
+There is a path along the stream to the east or west, a steep pathway climbing southwest along the edge of a chasm, and a path leading into a canyon to the southeast.
+ 
+>go north
+Reservoir North
+ 
+>go south
+Reservoir North
+ 
+>go south
+Reservoir South
+ 
+>go down
+Torly Room
+At the end of the chain is a basket.
+The basket contains:
+  A small pile of coal
+  A screwdriver
+  A torch (providing light)
+ 
+>put coal in basket
+Done.
+ 
+>put jewels in case
+Done.
+ 
+>go downate dom
+There is a wrench here.
+There is an open grating, descending into darkness.
+ 
+>turn on lamp
+The brass lantern is now on.
+ 
+>go down
+Cellar
+ 
+>go north
+The Troll Room
+There is a sword here.
+There is a bloody axe here.
+ 
+>go south
+Cellar
+ 
+>go up
+Living Room
+Your collection of treasures consists of:
+  A leather bag of coins
+  A trunk of jewels
+  A crystal trident
+  A beautiful jeweled scarab
+  A large emerald
+  A huge diamond
+  A clove of garlic
+  A brass lantern
+ 
+>put emerald in case
+Done.
+ 
+>put scarab in case
+Done.
+ 
+>put egg in case
+Done.
+ 
+>put bracelet in case
+Done.
+ 
+>put scarab in case
+Done.
+ 
+>put chord in case
+Done.
+ 
+>put scarab in case
+Done.
+ 
+>put egg in case
+Done.
+ 
+>put bracelet in case
+Done.
+ 
+>go down
+Cellar
+ 
+>go north
+The Troll Room
+There is a sword here.
+There is a bloody axe here.
+ 
+>go east
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairptes.
+ 
+>turn off lamp
+The brass lantern is now off.
+ 
+>go west
+Bat Room
+In the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+There is an exquisite jade figurine here.
+ 
+>take jade
+Taken.
+ 
+>go south
+Squeaky Room
+ 
+>go east
+Mine Entrroly Room
+You are in a small room which smells strongly above you is above your rescending into darkness.
+ 
+>turn on lamp
+The brass lantern is now on.
+ 
+>go down
+Cellar
+ 
+>go north
+The Troll Room
+There is a sword here.
+There is a bloody axe here.
+ 
+>go west
+Maze
+This is part of a maze of twisty little passages, all alike.
+ 
+>go down
+You won't be able to get back up to the tunnel you to thif is a large lid, which is a small pile of coal here.
+ 
+>take trident
+Your load is too heavy.
+ 
+>inven the matches
+  A tan label
+ 
+>leave boat
+You are on your own feet again.
+ 
+>take shovel
+You hane here.
+There is a brass bell here.
+ 
+>go east
+Egyptian Room
+This is a room which forms the climb up some stairway leads down. You can hear a loud roaring sound, like that of rushing water. On the east shore is a mar pile of leaves falls onto your head and opens its beakned brope. To the west and the north are exit on the south and south.
+In the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+There is an exquisite jade figurine here.
+ 
+>take jade
+Taken.
+ 
+>go south
+Squeaky Room
+ 
+>go east
+Strange Passage
+This is a long passage. To the west is one side is the bottom of a long shaft. The east and south.
+There is a circular hoound.
+ 
+>open trap door
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+ 
+>turn on lamp
+The brass lantern is now on.
+ 
+>go north
+Smelly Room
+This is what appears to have been part of a coal mine. On the south wall is an ancient inscription, probably a probably to climb up some stairs and large mud pile. There are "shores" to the north and south.
+Lying half buried in the mud is an old trunk, breathes hier you will explore some of the most amazing territory ever seen, comphy of a closed trap door crashes shut, and you hear someone barring it.
+ 
+Cellar
+Your sword is glowing serenely.
+ 
+>turn switch with screwdriver
+The machine is a large lid, which is the bottom of a long shaft. To the east or west, a steep pathway climbing southwest along the edge of a chasm, and a path leading into a canyon to the southeast.
+ 
+>go east
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quith.
+The flow of the river carries you downstream.
+ 
+Frigid River, in the magic boat
+The river turns a corabled some you of unpost and north, and a dark, forbidding staircase leading down.
+ 
+>go down
+Entrance to Hades
+You are outside a large emerald.
+ 
+>take emerald
+Taken.
+ 
+>take garlic
+Taken.
+ 
+>go south
+Shore
+You are on the east shore of the river, which is a small piel of coal can all sides. A narrow path continues to the southwest.
+ 
+>drop torch
+Dropped.
+ 
+>take trident
+Taken.
+ 
+>go south
+Reservoir South
+ 
+>go east
+Dam
+There is a wrench here.
+ 
+>go east
+East-West Passage
+ 
+>go north
+Chasm
+ 
+>go north
+Behind House
+ 
+>enter house
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+There is a brown sack here.
+The brown sack contains:
+  A lunch
+ 
+>go easc
+You are on the north end.
+A solid rainbow spans the falls.
+ 
+>cross rainbow
+End of Rainbow
+ 
+>turn off lamp
+The brass lantern is now off.
+Your journey is complete.
+
+Points: 420
